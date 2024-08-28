@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "e99452eb2a150f07",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d4fce3870a63673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9293da129003084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lectures/Лекция 1. Введение в язык C++. Основные типа и операции над ними.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b10c7e916c8b02dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aa26dba5dfae783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f54920b7420bcf7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a421363db0de606d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06576c3d29bfce12",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "69a51b59a28147f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcbee49fe92d3303",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2056e9fe6abc2b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lectures/Лекция 1. Введение в язык C++. Основные типа и операции над ними.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2c764d66f44d14d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lectures/Лекция 1. Введение в язык C++. Основные типа и операции над ними.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a48afee3ff2c97e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae2d5f7b1d9566f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lectures/Лекция 1. Введение в язык C++. Основные типа и операции над ними.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a9293da129003084",
+  "lastOpenFiles": [
+    "images/Pasted image 20240826203936.png",
+    "images/Pasted image 20240826160854.png",
+    "images/Pasted image 20240826162600.png",
+    "lectures/Лекция 1. Введение в язык C++. Основные типа и операции над ними.md",
+    "images/Pasted image 20240826161012.png",
+    "Pasted image 20240826160927.png",
+    "images/Без названия.md",
+    "images/CinC++.png",
+    "images/Pasted.md",
+    "images",
+    "lectures",
+    "README.md"
+  ]
+}
