@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/Лекция 3. Объявления и определения, области видимости, пространства имен.md",
+                "file": "lectures/Лекция 4. Выражения и операторы. Управляющие конструкции.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/Лекция 3. Объявления и определения, области видимости, пространства имен.md",
+                "file": "lectures/Лекция 4. Выражения и операторы. Управляющие конструкции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/Лекция 3. Объявления и определения, области видимости, пространства имен.md",
+                "file": "lectures/Лекция 4. Выражения и операторы. Управляющие конструкции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/Лекция 3. Объявления и определения, области видимости, пространства имен.md"
+                "file": "lectures/Лекция 4. Выражения и операторы. Управляющие конструкции.md"
               }
             }
           }
@@ -148,16 +148,22 @@
   },
   "active": "a9293da129003084",
   "lastOpenFiles": [
-    "lectures/Лекция 2. Основные команды в терминале. Компиляция программ.md",
+    "lectures_code/lecture-3/using_var.cpp",
+    "lectures_code/lecture-3/using_type.cpp",
+    "lectures_code/lecture-3/scopes.cpp",
+    "lectures_code/lecture-3/using_namespace.cpp",
+    "lectures_code/lecture-3",
+    "lectures/Лекция 4. Выражения и операторы. Управляющие конструкции.md",
+    "lectures/Лекция 1. Введение в язык C++. Основные типа и операции над ними.md",
+    "images/Pasted image 20240829113241.png",
     "lectures/Лекция 3. Объявления и определения, области видимости, пространства имен.md",
+    "lectures/Лекция 2. Основные команды в терминале. Компиляция программ.md",
     "lectures_code/lecture-2/1_3_scopes.cpp",
     "lectures_code/lecture-2/1_1.cpp",
     "lectures_code/lecture-2",
-    "lectures/Лекция 1. Введение в язык C++. Основные типа и операции над ними.md",
     "lectures_code/lecture-1/vector.cpp",
     "lectures_code/lecture-1/string.cpp",
     "lectures_code/lecture-1",
-    "lectures_code",
     "images/Pasted image 20240826203936.png",
     "images/Pasted image 20240826160854.png",
     "images/Pasted image 20240826162600.png",
@@ -166,8 +172,6 @@
     "images/Без названия.md",
     "images/CinC++.png",
     "images/Pasted.md",
-    "images",
-    "lectures",
     "README.md"
   ]
 }
