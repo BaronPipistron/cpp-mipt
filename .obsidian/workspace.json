@@ -150,6 +150,9 @@
   "lastOpenFiles": [
     "lectures/Лекция 2. Основные команды в терминале. Компиляция программ.md",
     "lectures/Лекция 3. Объявления и определения, области видимости, пространства имен.md",
+    "lectures_code/lecture-2/1_3_scopes.cpp",
+    "lectures_code/lecture-2/1_1.cpp",
+    "lectures_code/lecture-2",
     "lectures/Лекция 1. Введение в язык C++. Основные типа и операции над ними.md",
     "lectures_code/lecture-1/vector.cpp",
     "lectures_code/lecture-1/string.cpp",
