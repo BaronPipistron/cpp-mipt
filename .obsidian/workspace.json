@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d4fce3870a63673",
+        "id": "c019ae7840c27bd1",
         "type": "tabs",
         "children": [
           {
-            "id": "a9293da129003084",
+            "id": "11acf009d4c5b82b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/Лекция 5. Compile-time errors, runtime errors, undefined behaviour.md",
+                "file": "lectures/Лекция 6. Указатели.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/Лекция 5. Compile-time errors, runtime errors, undefined behaviour.md",
+                "file": "lectures/Лекция 6. Указатели.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/Лекция 5. Compile-time errors, runtime errors, undefined behaviour.md",
+                "file": "lectures/Лекция 6. Указатели.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/Лекция 5. Compile-time errors, runtime errors, undefined behaviour.md"
+                "file": "lectures/Лекция 6. Указатели.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9293da129003084",
+  "active": "11acf009d4c5b82b",
   "lastOpenFiles": [
+    "README.md",
+    "lectures/Лекция 6. Указатели.md",
+    "lectures/Лекция 5. Compile-time errors, runtime errors, undefined behaviour.md",
     "images/Pasted image 20240831194819.png",
     "images/Pasted image 20240831194726.png",
-    "lectures/Лекция 5. Compile-time errors, runtime errors, undefined behaviour.md",
     "lectures/Лекция 4. Выражения и операторы. Управляющие конструкции.md",
     "lectures_code/lecture-3/using_var.cpp",
     "lectures_code/lecture-3/using_type.cpp",
@@ -173,7 +175,6 @@
     "Pasted image 20240826160927.png",
     "images/Без названия.md",
     "images/CinC++.png",
-    "images/Pasted.md",
-    "README.md"
+    "images/Pasted.md"
   ]
 }
