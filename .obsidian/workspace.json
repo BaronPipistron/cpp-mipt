@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/Лекция 6. Указатели.md",
+                "file": "lectures/Лекция 7. Стековая, статическая и динамическая память.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/Лекция 6. Указатели.md",
+                "file": "lectures/Лекция 7. Стековая, статическая и динамическая память.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/Лекция 6. Указатели.md",
+                "file": "lectures/Лекция 7. Стековая, статическая и динамическая память.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/Лекция 6. Указатели.md"
+                "file": "lectures/Лекция 7. Стековая, статическая и динамическая память.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "11acf009d4c5b82b",
   "lastOpenFiles": [
-    "README.md",
+    "images/Pasted image 20240905170125.png",
+    "images/Pasted image 20240905170121.png",
     "lectures/Лекция 6. Указатели.md",
+    "lectures/Лекция 7. Стековая, статическая и динамическая память.md",
+    "lectures_code/lecture-6/pointers.cpp",
+    "lectures_code/lecture-6",
+    "README.md",
     "lectures/Лекция 5. Compile-time errors, runtime errors, undefined behaviour.md",
     "images/Pasted image 20240831194819.png",
     "images/Pasted image 20240831194726.png",
@@ -166,8 +171,6 @@
     "lectures_code/lecture-2/1_3_scopes.cpp",
     "lectures_code/lecture-2/1_1.cpp",
     "lectures_code/lecture-2",
-    "lectures_code/lecture-1/vector.cpp",
-    "lectures_code/lecture-1/string.cpp",
     "images/Pasted image 20240826203936.png",
     "images/Pasted image 20240826160854.png",
     "images/Pasted image 20240826162600.png",
