@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/Лекция 7. Стековая, статическая и динамическая память.md",
+                "file": "lectures/Лекция 8. Массивы, функции и указатели на функции.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/Лекция 7. Стековая, статическая и динамическая память.md",
+                "file": "lectures/Лекция 8. Массивы, функции и указатели на функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/Лекция 7. Стековая, статическая и динамическая память.md",
+                "file": "lectures/Лекция 8. Массивы, функции и указатели на функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/Лекция 7. Стековая, статическая и динамическая память.md"
+                "file": "lectures/Лекция 8. Массивы, функции и указатели на функции.md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "11acf009d4c5b82b",
   "lastOpenFiles": [
+    "lectures/Лекция 7. Стековая, статическая и динамическая память.md",
+    "lectures/Лекция 8. Массивы, функции и указатели на функции.md",
+    "lectures_code/lecture-7/stack_overflow.cpp",
+    "lectures_code/lecture-7",
     "images/Pasted image 20240905170125.png",
     "images/Pasted image 20240905170121.png",
     "lectures/Лекция 6. Указатели.md",
-    "lectures/Лекция 7. Стековая, статическая и динамическая память.md",
     "lectures_code/lecture-6/pointers.cpp",
     "lectures_code/lecture-6",
     "README.md",
@@ -169,15 +172,12 @@
     "lectures/Лекция 3. Объявления и определения, области видимости, пространства имен.md",
     "lectures/Лекция 2. Основные команды в терминале. Компиляция программ.md",
     "lectures_code/lecture-2/1_3_scopes.cpp",
-    "lectures_code/lecture-2/1_1.cpp",
-    "lectures_code/lecture-2",
     "images/Pasted image 20240826203936.png",
     "images/Pasted image 20240826160854.png",
     "images/Pasted image 20240826162600.png",
     "images/Pasted image 20240826161012.png",
     "Pasted image 20240826160927.png",
     "images/Без названия.md",
-    "images/CinC++.png",
     "images/Pasted.md"
   ]
 }
