@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c019ae7840c27bd1",
+        "id": "54e6d7815c5f4c59",
         "type": "tabs",
         "children": [
           {
-            "id": "11acf009d4c5b82b",
+            "id": "8f0d26be50f60297",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/Лекция 8. Массивы, функции и указатели на функции.md",
+                "file": "lectures/Лекция 9. Сложные объявления. Ссылки.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/Лекция 8. Массивы, функции и указатели на функции.md",
+                "file": "lectures/Лекция 9. Сложные объявления. Ссылки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/Лекция 8. Массивы, функции и указатели на функции.md",
+                "file": "lectures/Лекция 9. Сложные объявления. Ссылки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/Лекция 8. Массивы, функции и указатели на функции.md"
+                "file": "lectures/Лекция 9. Сложные объявления. Ссылки.md"
               }
             }
           }
@@ -146,10 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11acf009d4c5b82b",
+  "active": "8f0d26be50f60297",
   "lastOpenFiles": [
-    "lectures/Лекция 7. Стековая, статическая и динамическая память.md",
+    "README.md",
+    "lectures/Лекция 9. Сложные объявления. Ссылки.md",
+    "images/Pasted image 20240925114838.png",
     "lectures/Лекция 8. Массивы, функции и указатели на функции.md",
+    "lectures/Лекция 1. Введение в язык C++. Основные типа и операции над ними.md",
+    "lectures_code/lecture-8/pointers_to_functions.cpp",
+    "lectures_code/lecture-8/arrays.cpp",
+    "lectures_code/lecture-8",
+    "lectures/Лекция 7. Стековая, статическая и динамическая память.md",
     "lectures_code/lecture-7/stack_overflow.cpp",
     "lectures_code/lecture-7",
     "images/Pasted image 20240905170125.png",
@@ -157,7 +164,6 @@
     "lectures/Лекция 6. Указатели.md",
     "lectures_code/lecture-6/pointers.cpp",
     "lectures_code/lecture-6",
-    "README.md",
     "lectures/Лекция 5. Compile-time errors, runtime errors, undefined behaviour.md",
     "images/Pasted image 20240831194819.png",
     "images/Pasted image 20240831194726.png",
@@ -165,18 +171,13 @@
     "lectures_code/lecture-3/using_var.cpp",
     "lectures_code/lecture-3/using_type.cpp",
     "lectures_code/lecture-3/scopes.cpp",
-    "lectures_code/lecture-3/using_namespace.cpp",
-    "lectures_code/lecture-3",
-    "lectures/Лекция 1. Введение в язык C++. Основные типа и операции над ними.md",
     "images/Pasted image 20240829113241.png",
     "lectures/Лекция 3. Объявления и определения, области видимости, пространства имен.md",
     "lectures/Лекция 2. Основные команды в терминале. Компиляция программ.md",
-    "lectures_code/lecture-2/1_3_scopes.cpp",
     "images/Pasted image 20240826203936.png",
     "images/Pasted image 20240826160854.png",
     "images/Pasted image 20240826162600.png",
     "images/Pasted image 20240826161012.png",
-    "Pasted image 20240826160927.png",
     "images/Без названия.md",
     "images/Pasted.md"
   ]
