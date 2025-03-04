@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "54e6d7815c5f4c59",
+        "id": "3dea98bd80d5e5dd",
         "type": "tabs",
         "children": [
           {
-            "id": "8f0d26be50f60297",
+            "id": "951e728d6b9a95e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/Лекция 9. Сложные объявления. Ссылки.md",
+                "file": "10. Константы. Константные указатели и ссылки/Лекция 10. Константы. Константные указатели и ссылки.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 10. Константы. Константные указатели и ссылки"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/Лекция 9. Сложные объявления. Ссылки.md",
+                "file": "01. Введение в язык C++. Основные типы и операции над ними/Лекция 1. Введение в язык C++. Основные типы и операции над ними.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Лекция 1. Введение в язык C++. Основные типы и операции над ними"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/Лекция 9. Сложные объявления. Ссылки.md",
+                "file": "01. Введение в язык C++. Основные типы и операции над ними/Лекция 1. Введение в язык C++. Основные типы и операции над ними.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Лекция 1. Введение в язык C++. Основные типы и операции над ними"
             }
           },
           {
@@ -116,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/Лекция 9. Сложные объявления. Ссылки.md"
-              }
+                "file": "01. Введение в язык C++. Основные типы и операции над ними/Лекция 1. Введение в язык C++. Основные типы и операции над ними.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Лекция 1. Введение в язык C++. Основные типы и операции над ними"
             }
           }
         ]
@@ -146,8 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f0d26be50f60297",
+  "active": "951e728d6b9a95e5",
   "lastOpenFiles": [
+    "09. Сложные объявления. Ссылки/Лекция 9. Сложные объявления. Ссылки.md",
+    "10. Константы. Константные указатели и ссылки/Лекция 10. Константы. Константные указатели и ссылки.md",
+    "10. Константы. Константные указатели и ссылки",
     "README.md",
     "lectures/Лекция 9. Сложные объявления. Ссылки.md",
     "images/Pasted image 20240925114838.png",
@@ -170,7 +190,6 @@
     "lectures/Лекция 4. Выражения и операторы. Управляющие конструкции.md",
     "lectures_code/lecture-3/using_var.cpp",
     "lectures_code/lecture-3/using_type.cpp",
-    "lectures_code/lecture-3/scopes.cpp",
     "images/Pasted image 20240829113241.png",
     "lectures/Лекция 3. Объявления и определения, области видимости, пространства имен.md",
     "lectures/Лекция 2. Основные команды в терминале. Компиляция программ.md",
